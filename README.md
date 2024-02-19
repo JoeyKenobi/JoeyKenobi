@@ -8,8 +8,7 @@
 
 <h2>🌱 Featured Programming Projects:</h2>
   
-  - <b>RSA Encryption Project</b> 
-    - [RSA Encryption](https://github.com/JoeyKenobi/RSA-Encryption-Project/tree/master)
+  - <b>[RSA Encryption Project](https://github.com/JoeyKenobi/RSA-Encryption-Project/tree/master)</b> 
   
 <h2> 🤳 Connect with me:</h2>
 
