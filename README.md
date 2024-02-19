@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joseph! <br/><a href="https://www.linkedin.com/in/joseph-v-ramos/">Product Security Engineer</a>, <a href="https://github.com/JoeyKenobi">Programmer</a> 
+<h1>Hi, I'm Joseph! <br/><a href="https://www.linkedin.com/in/joseph-v-ramos/">Product Security Engineer</a>, <a href="https://github.com/JoeyKenobi">Security Programmer</a> 
 
 <h2>🔭 Featured Cyber Security Projects:</h2>
 
