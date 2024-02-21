@@ -2,13 +2,11 @@
 
 <h2>🔭 Featured Cyber Security Projects:</h2>
 
-- <b>Active directory homelab will go here</b>
-  - other stuff and Machine Learning Components
-- <b>PowerShell</b>
+- <b>[Vulnerability Scanning homelab on Vulnerable VM](url)</b>
 
 <h2>🌱 Featured Programming Projects:</h2>
   
-  - <b>[RSA Encryption Project](https://github.com/JoeyKenobi/RSA-Encryption-Project/tree/master)</b> 
+- <b>[RSA Encryption Project](https://github.com/JoeyKenobi/RSA-Encryption-Project/tree/master)</b> 
   
 <h2> 🤳 Connect with me:</h2>
 
