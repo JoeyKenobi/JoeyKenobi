@@ -2,7 +2,7 @@
 
 <h2>🔭 Featured Cyber Security Projects:</h2>
 
-- <b>[Vulnerability Scanning homelab on Vulnerable VM](https://github.com/JoeyKenobi/Vulnerability-Scanning-Homelab-with-Nessus)</b>
+- <b>[Vulnerability Scanning homelab on Vulnerable VM](https://github.com/JoeyKenobi/Vulnerability-Scanning-Homelab-with-Nessus/blob/main/README.md)</b>
 
 <h2>🌱 Featured Programming Projects:</h2>
   
